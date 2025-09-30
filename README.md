@@ -11,6 +11,8 @@ I'm **Jidnya** — a passionate Android developer and tech enthusiast who loves 
 
 ### 🔭 Projects
 - 📱 Temperature Conversion App (Android Studio)
+- Number guessing game app (Android studio)
+- Contact Management App (Android studio)
 - 🌐 Personal website built using **HTML & CSS**
 
 ### 🤝 Looking to Collaborate On
